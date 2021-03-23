@@ -1,3 +1,5 @@
+<script src="https://tryhackme.com/badge/84233"></script>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A1vinSmith)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
