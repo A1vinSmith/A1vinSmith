@@ -1,13 +1,19 @@
-
-
+![https://app.hackthebox.eu/profile/216267](https://www.hackthebox.eu/badge/image/216267)
+![https://tryhackme.com/p/AlvinSmith](https://user-images.githubusercontent.com/24937594/112230523-d668a800-8c99-11eb-8860-7ea8d5ba9048.png)
+<span>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A1vinSmith&theme=merko)](https://tryhackme.com/p/AlvinSmith)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A1vinSmith&layout=compact&theme=gruvbox)](https://tryhackme.com/p/AlvinSmith)
+</span>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A1vinSmith&layout=compact&theme=gruvbox)](https://tryhackme.com/p/AlvinSmith) <a href="https://tryhackme.com/p/AlvinSmith">![https://tryhackme.com/p/AlvinSmith](https://user-images.githubusercontent.com/24937594/112230523-d668a800-8c99-11eb-8860-7ea8d5ba9048.png)</a>
+
+
+
+  <!-- <a href="https://tryhackme.com/p/AlvinSmith"></a> -->
 
 <!--
 ![THM-YNFCPQDJN4](https://user-images.githubusercontent.com/24937594/113675234-41d95d80-970f-11eb-83eb-e5fa47c539ac.png)
 -->
-
+  
 <!--
 **A1vinSmith/A1vinSmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
