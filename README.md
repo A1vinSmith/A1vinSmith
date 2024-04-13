@@ -1,4 +1,5 @@
-![https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/61290963](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/61290963)
+<img width="1025" alt="Screenshot 2024-04-14 at 10 15 01 AM" src="https://github.com/A1vinSmith/A1vinSmith/assets/24937594/f004d615-032d-4868-bc6e-b2456527d534">
+
 
 <img width="1053" alt="Screenshot 2024-04-14 at 8 07 55 AM" src="https://github.com/A1vinSmith/A1vinSmith/assets/24937594/02416de0-cb69-4bea-8278-04d120a6d33c">
 
