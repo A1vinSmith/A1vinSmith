@@ -3,13 +3,13 @@
 
 <img width="1053" alt="Screenshot 2024-04-14 at 8 07 55 AM" src="https://github.com/A1vinSmith/A1vinSmith/assets/24937594/02416de0-cb69-4bea-8278-04d120a6d33c">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A1vinSmith&theme=merko)](https://tryhackme.com/p/AlvinSmith)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=A1vinSmith&theme=merko)](https://tryhackme.com/p/AlvinSmith)
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A1vinSmith&layout=compact&theme=gruvbox)](https://tryhackme.com/p/AlvinSmith)
 -->
-
+<!--
 ![https://tryhackme.com/p/AlvinSmith](https://user-images.githubusercontent.com/24937594/112230523-d668a800-8c99-11eb-8860-7ea8d5ba9048.png)
-
+-->
 <!--
 ![216267](https://user-images.githubusercontent.com/24937594/132150473-9b085224-ebed-4bb0-b47c-a019d73ad169.png)
 -->
