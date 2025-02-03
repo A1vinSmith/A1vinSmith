@@ -3,6 +3,8 @@
 
 <img width="1053" alt="Screenshot 2024-04-14 at 8 07 55 AM" src="https://github.com/A1vinSmith/A1vinSmith/assets/24937594/02416de0-cb69-4bea-8278-04d120a6d33c">
 
+![OSWE](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/131842045)
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=A1vinSmith&theme=merko)](https://tryhackme.com/p/AlvinSmith)
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A1vinSmith&layout=compact&theme=gruvbox)](https://tryhackme.com/p/AlvinSmith)
