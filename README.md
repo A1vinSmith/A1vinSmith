@@ -1,11 +1,11 @@
-<img width="1025" alt="OSCP" src="https://github.com/A1vinSmith/A1vinSmith/assets/24937594/f004d615-032d-4868-bc6e-b2456527d534">
+<img width="846" alt="OSCP" src="https://github.com/A1vinSmith/A1vinSmith/assets/24937594/f004d615-032d-4868-bc6e-b2456527d534">
 
 
-<img width="1053" alt="OSEP" src="https://github.com/A1vinSmith/A1vinSmith/assets/24937594/02416de0-cb69-4bea-8278-04d120a6d33c">
+<img width="846" alt="OSEP" src="https://github.com/A1vinSmith/A1vinSmith/assets/24937594/02416de0-cb69-4bea-8278-04d120a6d33c">
 
-<img width="1000" alt="OSWE" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/131842045">
+<img width="846" alt="OSWE" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/131842045">
 
-<img width="1000" alt="OSWP" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/133568585">
+<img width="846" alt="OSWP" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/133568585">
 <!--
 ![OSWE](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/131842045)
 
