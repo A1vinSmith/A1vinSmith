@@ -3,12 +3,14 @@
 
 <img width="1053" alt="OSEP" src="https://github.com/A1vinSmith/A1vinSmith/assets/24937594/02416de0-cb69-4bea-8278-04d120a6d33c">
 
-<img width="1053" alt="OSWE" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/131842045">
+<img width="1000" alt="OSWE" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/131842045">
 
+<img width="1000" alt="OSWP" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/133568585">
+<!--
 ![OSWE](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/131842045)
 
 ![OSWP](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/133568585)
-
+-->
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=A1vinSmith&theme=merko)](https://tryhackme.com/p/AlvinSmith)
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A1vinSmith&layout=compact&theme=gruvbox)](https://tryhackme.com/p/AlvinSmith)
