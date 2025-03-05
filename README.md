@@ -5,7 +5,7 @@
 
 ![OSWE](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/131842045)
 
-![OSWP](https://media.licdn.com/dms/document/media/v2/D561FAQENJF2P41hqCg/feedshare-document-pdf-analyzed/B56ZUBZvhAGoAY-/0/1739485282725?e=1741824000&v=beta&t=cPuvrAK4wwB4oOguiaCq2AdCo5R0DTITgXI1-R2evgw)
+![OSWP](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/133568585)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=A1vinSmith&theme=merko)](https://tryhackme.com/p/AlvinSmith)
 <!--
